@@ -1,0 +1,2 @@
+class BaseLibraryException(Exception):
+    pass
